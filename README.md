@@ -32,6 +32,7 @@ Estoy familiarizado con una amplia gama de tecnologías, incluyendo:
 - MongoDB
 - MySQL
 - PostgreSql
+- Express
 ## Contacto
 
 Si deseas colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/aaron-sztychmasjter-218307266/) o también puedes contactarte a traves de [correo](mailto:aronmaster94@gmail.com). ¡Espero poder conectar contigo!
