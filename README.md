@@ -35,7 +35,7 @@ Estoy familiarizado con una amplia gama de tecnologías, incluyendo:
 - Express
 ## Contacto
 
-Si deseas colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/aaron-sztychmasjter-218307266/) o también puedes contactarte a traves de [correo](mailto:aronmaster94@gmail.com). ¡Espero poder conectar contigo!
+Si deseas colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/aaron-sztychmasjter-218307266/) o también puedes contactarte a traves de [correo](mailto:aronmaster94@gmail.com) y mi [portfolio](https://portfolio2-zeta-eight.vercel.app/). ¡Espero poder conectar contigo!
 
 ## Licencia
 
